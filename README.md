@@ -1,6 +1,29 @@
+
+
 ## ASSIGNMENT 3##
 
 Altering this README.md to commit to the new branch in GitHub!
+
+## Project Overview 
+The purpose of assignment 3 was to furhter add diagnostic checks and clearer plots, as well as praciing the version-control workflow. 
+
+## Changes to Assignment 2 linear-regression-jupyter plots and scripts 
+- MSE was included in both my printed outputs and plot annotations
+- Plots were saved to PNG files in the script version
+
+## Pushing new changes to GitHub workflow
+1. The repository was cloned to download all files and full version history to my computer
+2. Changes to the scripts were added and then commited
+3. A new branch (eaf/assignment3) was created and checked out
+4. Once changes were committed locally, they were pushed to GitHub
+5. Once the pull request was approved, it was merged into main to incorporate the new work into the main codebase
+6. A tag was added for the merge in order to mark the final version for submission 
+
+## URLs to submit for Assignment 3 ##
+URL: 
+1. Original main-branch commit URL before merging: https://github.com/emmafischels/linear-regression-jupyter/commit/63c3cb63e4bec6a128b6ecc25c306fa5dfd0c86b
+2. eaf/assignment3 branch URL: https://github.com/emmafischels/linear-regression-jupyter/tree/eaf/assignment3
+3. Tagged main-branch URL after the merge: https://github.com/emmafischels/linear-regression-jupyter/releases/tag/v1.0
 
 
 
